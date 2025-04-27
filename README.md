@@ -1,2 +1,2 @@
 # FlickerApp
-A Flickr photos viewing application using the Flickr API
+A Flickr photos viewing application using the Flickr API, NSCache, Combine and UIKit.
